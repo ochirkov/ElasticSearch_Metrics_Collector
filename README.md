@@ -38,8 +38,8 @@ Supported metrics by options:
 Example:
         Get cluster status:
 
-        `$ elasticsearch_metrics cluster status`
+        $ elasticsearch_metrics cluster status
 
         Get heap_used_in_bytes on current node:
 
-        `$ elasticsearch_metrics node heap_used_in_bytes`
+        $ elasticsearch_metrics node heap_used_in_bytes
