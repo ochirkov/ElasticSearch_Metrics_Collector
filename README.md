@@ -8,6 +8,7 @@ Usage:
 
 
 Supported options:
+
     - cluster
     - node
 
