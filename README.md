@@ -37,6 +37,7 @@ Supported metrics by options:
 
 
 Example:
+
         Get cluster status:
 
         $ elasticsearch_metrics cluster status
